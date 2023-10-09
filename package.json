@@ -1,0 +1,9 @@
+{
+  "name": "TEST",
+  "version": "1.0.0",
+  "description": "A test project.",
+  "main": "index.js",
+  "repository": "git@github.com:libo-nx/TEST.git",
+  "author": "libo <libo_nx@qq.com>",
+  "license": "MIT"
+}
